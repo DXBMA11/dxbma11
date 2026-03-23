@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**DXBMA11/dxbma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Ghost Logic | dxbma11 
 
-Here are some ideas to get you started:
+> **"Analyzing the logic flaws that automated systems miss."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Research Specialization
+* **Automotive Security:** Focus on Vehicle-to-Cloud logic, Infotainment systems, and Gateway security.
+* **Hardware Attack Surfaces:** Identifying unconventional entry points in IoT and Automotive hardware.
+* **Methodology:** Independent, "out-of-the-box" thinking for high-impact 4/4 scope targets.
+
+### 🏆 Credentials
+* **Bugcrowd:** Verified Identity Researcher 
+* **Focus:** Currently engaged in private automotive research.
+
+---
+*"The code defines the limits; the logic finds the way around them."*
